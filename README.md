@@ -12,3 +12,6 @@ do IBGE e contém os 5570 pontos de sede municipal.
 
 Uso:
     python etl_coordenadas_municipios.py
+
+Visualize:
+[Unidades Federativas e Municípios](https://www.areadetrampo.com.br/municipios-brasileiros/)
